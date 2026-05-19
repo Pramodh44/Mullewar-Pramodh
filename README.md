@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👨‍💻 Pramodh Mullewar<br>*Final Year IT Student | ML Research Intern | GATE 2027 Aspirant*<br><br>- 🔭 I’m currently working on Machine Learning projects and Research.<br>- 🌱 I’m currently learning Deep Learning architectures.<br>- 🏸 I love playing badminton in my free time.<br>- 📫 Reach me at:  pramodh9346@gmail.com
+### 👨‍💻 Pramodh Mullewar<br>*Final Year IT Student | ML Research Intern | *<br><br>- 🔭 I’m currently working on Machine Learning projects and Research.<br>- 🌱 I’m currently learning Deep Learning architectures.<br>- 🏸 I love playing badminton in my free time.<br>- 📫 Reach me at:  pramodh9346@gmail.com
 
 
 ## 🌐 Socials:
